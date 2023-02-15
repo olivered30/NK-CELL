@@ -1,5 +1,4 @@
 Structure.                  a1+a2   a1+a22   a1+a2+b    a21R  pep_1-9R  pep_1-9   p_5789   CD94R    NKG2AR  CDNKG2R  CDNKG2A
-Measure                    RMS(Ca)  RMS(Ca)  RMS(Ca)  RMS(Ca) RMSC(at)  RMS(at)  RMS(at) RMSC(Ca) RMSC(Ca) RMSC(Ca)  RMS(Ca)
 EpV7L8-3cdg-0000             0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.000
 EpV7L8-3cdg-0010             0.885    0.820    0.894    1.208    1.704    1.579    1.751    3.738    5.328    4.592    1.529
 EpV7L8-3cdg-0020             1.195    1.182    1.018    1.172    2.211    1.993    1.868    3.040    4.616    3.899    1.548
